@@ -1,1 +1,1 @@
-rabbitmqv1/rabbitmq:3.10-management
+rabbitmq/rabbitmq:3.10-management
